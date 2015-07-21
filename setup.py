@@ -250,7 +250,6 @@ setup(
                       'matplotlib',
                       'networkx',
                       'protobuf',
-                      'scipy>=0.13.2',
                       'pymongo',
                       'psutil'
                       ],
